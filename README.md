@@ -2,12 +2,12 @@
 (Currently) I'm a backend engineer, whilst a final year student
 
 Things I like right now
-- <img src="https://golang.org/doc/gopher/gophercolor.png" width=20 height=20> Building resilient backend with Go
-- <img src="https://kubernetes.io/images/favicon.png" width=20 height=20> Kubernetes for managing my backend
+- <img src="https://golang.org/doc/gopher/gophercolor.png" width=20 height=20> Exploring backend realm, especially in Go
+- <img src="https://kubernetes.io/images/favicon.png" width=20 height=20> Kubernetes for managing my infra
 - <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width=20 height=20> Sometimes I also do frontend with react
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/XO_classroom_network.jpg/220px-XO_classroom_network.jpg" width=20 height=20> Things related to backend engineering and distributed system
 
-Other than that, I also like to explore many new things even unrelated to software engineering ✨
+Other than that, I generally like to figure out how things work, and to explore many new things even unrelated to software engineering ✨
 
 
 ## 📍Reach Me Out 🙌
