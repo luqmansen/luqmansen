@@ -1,11 +1,13 @@
 ### Greetings <img src="https://pic.funnygifsbox.com/uploads/2019/06/funnygifsbox.com-2019-06-28-12-23-55-93.gif" width="40"> Visitors ![](https://komarev.com/ghpvc/?username=luqmansen)
-(Currently) I'm a backend engineer, whilst a final year student
+I'm a software engineer @ [loket.com](https://loket.com/)
 
 Things I like right now
 - <img src="https://golang.org/doc/gopher/gophercolor.png" width=20 height=20> Exploring backend realm, especially in Go
 - <img src="https://kubernetes.io/images/favicon.png" width=20 height=20> Kubernetes for managing my infra
-- <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width=20 height=20> Sometimes I also do frontend with react
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/XO_classroom_network.jpg/220px-XO_classroom_network.jpg" width=20 height=20> Things related to backend engineering and distributed system
+
+Books I read right now
+- Designing Data-intensive Applications (Martin Kleppman)
 
 Other than that, I generally like to figure out how things work, and to explore many new things even unrelated to software engineering ✨
 
