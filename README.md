@@ -6,12 +6,6 @@ Things I like right now
 - <img src="https://kubernetes.io/images/favicon.png" width=20 height=20> Kubernetes for managing my infra
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/XO_classroom_network.jpg/220px-XO_classroom_network.jpg" width=20 height=20> Things related to backend engineering and distributed system
 
-Things I currently learning
-- Ruby
-
-Books I read right now
-- Designing Data-intensive Applications by Martin Kleppman
-
 Other than that, I generally like to figure out how things work, and to explore many new things even unrelated to software engineering ✨
 
 
