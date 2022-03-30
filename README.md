@@ -1,5 +1,5 @@
 ### Greetings <img src="https://pic.funnygifsbox.com/uploads/2019/06/funnygifsbox.com-2019-06-28-12-23-55-93.gif" width="40"> Visitors ![](https://komarev.com/ghpvc/?username=luqmansen)
-(Currently) I'm a software engineer @[loket.com](https://loket.com/)
+Currently, I'm a software engineer @[loket.com](https://loket.com/)
 
 Things I like right now
 - <img src="https://golang.org/doc/gopher/gophercolor.png" width=20 height=20> Exploring backend realm, especially in Go
