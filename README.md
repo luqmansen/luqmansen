@@ -12,7 +12,7 @@ What I'm currently interested in:
 
 
 Am I open to new challanges?
-- Yes, take a look at my [resume](https://drive.google.com/file/d/1dhN6xxfe13fvU7TxSKu06bnJGk4WR01U/view?usp=sharing)
+- Yes, take a look at my [resume](https://drive.google.com/file/d/1BE07ttRf81DzlO3-9zztaN_4ZyzUaYcQ/view?usp=sharing)
 
 
 
