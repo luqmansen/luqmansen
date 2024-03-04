@@ -4,7 +4,7 @@ I'm currently helping to build things at [🎀Bowtie](https://www.bowtie.com.hk/
 
 
 What I do mostly:
-- Working on the backend with Python and Go, and a little bit on Cloud (AWS) and Frontend (React, TS)
+- Working on the backend with Python and Go, and a little bit on Cloud (AWS)
 
 What I'm currently learning
 - Typescript, and more frontend frameworks
